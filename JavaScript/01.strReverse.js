@@ -7,6 +7,7 @@ function strReverse (str) {
     let reverseString = modifiedStr.reverse().join('');
     console.log(reverseString); 
     return reverseString;
+    
 }
 
 let reverseStr = strReverse('Hello, World');
