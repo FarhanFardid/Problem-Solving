@@ -6,7 +6,8 @@ const numReverse =(number) =>{
     let modNum = parseInt(numStr.split('').reverse().join(''));
     console.log(modNum);
     return modNum;
+
 } 
 
-const numRev = numReverse(567);
+const numRev = numReverse(577);
 console.log(numRev);
