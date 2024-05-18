@@ -23,9 +23,7 @@ const checkParantheses = (str) =>{
     return "Balanced";
    }
     }
-
     console.log(track);
-
 }
 
 const string ='([({[]})])';
