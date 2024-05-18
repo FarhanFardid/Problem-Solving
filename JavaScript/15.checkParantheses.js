@@ -24,6 +24,7 @@ const checkParantheses = (str) =>{
    }
     }
     console.log(track);
+    
 }
 
 const string ='([({[]})])';
