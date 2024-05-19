@@ -1,5 +1,5 @@
-// 1.Write a JavaScript program to find the largest element in a nested array. 
-// 2. Write a JavaScript program to convert a string to title case (capitalize the first letter of each word). 
+
+
 // 3. Implement a function to reverse a string without using the built-in reverse() method. 
 // 4. Given an array of numbers, write a function to find the largest and smallest numbers in the array. 
 // 5. Given a string, write a function to count the occurrences of each character in the string. 
