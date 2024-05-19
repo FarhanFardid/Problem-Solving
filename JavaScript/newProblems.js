@@ -1,7 +1,6 @@
 
-// 4. Given an array of numbers, write a function to find the largest and smallest numbers in the array. 
 // 5. Given a string, write a function to count the occurrences of each character in the string. 
-// 6.  Write a function that reverses the order of words in a sentence without using the built-in reverse() method. 
+
 // 7. Write a function that takes an array of integers and returns the largest difference between any two numbers in the array. 
 // 8. Write a function that generates a random alphanumeric string of a given length. 
 // 9.  Implement a function that converts a number to its Roman numeral representation. 
