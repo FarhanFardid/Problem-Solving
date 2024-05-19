@@ -1,6 +1,4 @@
 
-
-// 3. Implement a function to reverse a string without using the built-in reverse() method. 
 // 4. Given an array of numbers, write a function to find the largest and smallest numbers in the array. 
 // 5. Given a string, write a function to count the occurrences of each character in the string. 
 // 6.  Write a function that reverses the order of words in a sentence without using the built-in reverse() method. 
