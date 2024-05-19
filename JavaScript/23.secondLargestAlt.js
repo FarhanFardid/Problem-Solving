@@ -1,4 +1,4 @@
-// // Find the second largest element in an array. Write a function to find the second largest element in an array.
+// Find the second largest element in an array. Write a function to find the second largest element in an array.
 
 const secondLargest = (arr) =>{
 if(arr.length < 2){
