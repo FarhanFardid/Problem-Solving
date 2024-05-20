@@ -1,4 +1,4 @@
-//   Write a function that removes all falsy values (false, null, 0, “”, undefined, and NaN) from an array. 
+//   Write a function that removes all falsy values (false, null, 0, “”, undefined, and NaN) from an array.  Creating New Array from the original array.
 
 const falsyValuesRemove =(arr)=>{
     let truthyVal=[];
