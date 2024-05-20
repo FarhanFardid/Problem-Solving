@@ -1,6 +1,4 @@
 
-
-// 13.  Implement a function that merges two arrays into a single array, alternating elements from each array. 
 // Advanced: 
 // 14.  Implement a debounce function in JavaScript that limits the frequency of a function’s execution when it’s called repeatedly within a specified time frame. 
 // 15. Write a function that takes an array of objects and a key, and returns a new array sorted based on the values of that key in ascending order. 
