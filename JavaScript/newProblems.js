@@ -1,5 +1,5 @@
 
-// 10.  Implement a function that returns the average value of numbers in an array. 
+
 // 11. Write a function that sorts an array of strings in alphabetical order. 
 // 12. Write a function that removes all falsy values (false, null, 0, “”, undefined, and NaN) from an array. 
 // 13.  Implement a function that merges two arrays into a single array, alternating elements from each array. 
