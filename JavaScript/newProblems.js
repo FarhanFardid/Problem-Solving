@@ -1,6 +1,4 @@
 
-
-// 7. Write a function that takes an array of integers and returns the largest difference between any two numbers in the array. 
 // 8. Write a function that generates a random alphanumeric string of a given length. 
 // 9.  Implement a function that converts a number to its Roman numeral representation. 
 // 10.  Implement a function that returns the average value of numbers in an array. 
