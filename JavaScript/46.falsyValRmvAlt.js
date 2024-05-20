@@ -1,4 +1,4 @@
-//   Write a function that removes all falsy values (false, null, 0, “”, undefined, and NaN) from an array. 
+//   Write a function that removes all falsy values (false, null, 0, “”, undefined, and NaN) from an array. Using Array splice method.
 
 const falsyValuesRemove =(arr)=>{
  
