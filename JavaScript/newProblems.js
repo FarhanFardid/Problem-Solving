@@ -1,5 +1,4 @@
 
-// 5. Given a string, write a function to count the occurrences of each character in the string. 
 
 // 7. Write a function that takes an array of integers and returns the largest difference between any two numbers in the array. 
 // 8. Write a function that generates a random alphanumeric string of a given length. 
