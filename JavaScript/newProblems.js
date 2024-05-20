@@ -1,6 +1,5 @@
 
 
-// 12. Write a function that removes all falsy values (false, null, 0, “”, undefined, and NaN) from an array. 
 // 13.  Implement a function that merges two arrays into a single array, alternating elements from each array. 
 // Advanced: 
 // 14.  Implement a debounce function in JavaScript that limits the frequency of a function’s execution when it’s called repeatedly within a specified time frame. 
