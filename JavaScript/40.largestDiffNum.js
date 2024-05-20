@@ -1,7 +1,7 @@
 //   Write a function that takes an array of integers and returns the largest difference between any two numbers in the array. 
 
 const largestDiffNum = (arr) =>{
-    let largestDiff =1;
+    let largestDiff =0;
 
     let sortedArr = arr.sort(function(a,b){return b-a})
     console.log(sortedArr);
