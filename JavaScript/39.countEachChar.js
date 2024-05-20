@@ -14,6 +14,7 @@ const charCount =(str)=>{
     console.log(charObj);
     return charObj;
 }
+
 const mainStr = "GeeksforGeeks";
 const result = charCount(mainStr);
 console.log("The Numbers Count for each Character is: ", result); 
