@@ -1,4 +1,5 @@
 // Check for anagram. Write a function to determine if two strings are anagrams of each other.
+// Given two strings. Find if one string can be formed by rearranging the letters of other string.
 
 // A string anagram is a permutation or rearrangement of the characters of a string to form a new string. Two strings are considered anagrams if they contain the same characters with the same frequencies, but in different orders.
 
