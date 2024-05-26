@@ -1,4 +1,4 @@
-// Write logic to get unique objects from below array
+// Write function to get unique objects from below array
 // I/P: [{name: "sai"},{name:"Nang"},{name: "sai"},{name:"Nang"},{name: "111111"}];
 // O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
 
