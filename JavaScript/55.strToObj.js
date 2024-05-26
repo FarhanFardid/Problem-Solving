@@ -1,4 +1,4 @@
-// . Write a function that converts string input into an object
+//  Write a function that converts string input into an object
 // ("a.b.c", "someValue");
 // {a: {b: {c: "someValue"}}}
 
